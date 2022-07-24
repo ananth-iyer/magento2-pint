@@ -14,8 +14,7 @@
         "pub/static",
         "setup/vendor",
         "var",
-        "vendor",
-        "app"
+        "vendor"
     ],
     "rules": {
         "@PSR2": true,
